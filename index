@@ -1,16 +1,55 @@
-## Hi there 👋
-
-<!--
-**Zaragou/Zaragou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+    <head>
+        <title>L'Antique</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="ANTWIN.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <div>
+            <h1 id='titre1'>
+                L'Antique
+                <img id='Logo' src="images/Logo ANT.png" alt=""/>
+            </h1>
+            <h2>
+                Qui Sommes Nous ?
+            </h2>
+            <p id='Description'>
+            Nous sommes une équipe esport ayant pour but de gagner en visibilité sur des jeux comme Rocket League ou League Of Legend
+            </p>
+            <h3>
+                Nos Équipes Rocket League
+            </h3>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <p id='Réseaux'>
+                Nos Réseaux Sociaux
+                
+                <a href= 'https://www.instagram.com/antique.network/?utm_source=ig_web_button_share_sheet'> 
+                    <img id='Instagram' src="images/Instagram.jpg" alt="Insta"/>
+                </a>
+                <a href= 'https://x.com/Antique_Network'>
+                    <img id='Twitter' src="images/Twitter.png" alt="Twitter"/>
+                </a>
+                <a href= 'https://discord.com/invite/lantique'>
+                    <img id='Discord' src="images/Discord.png" alt="Discord"/>
+                </a>
+            </p>
+            <p>
+                <a href="Roster Main.html">
+                    yep
+                    <img un peu de montage et c'est good/>
+                </a>
+                 
+            </p>
+            
+        </div>
+    </body>
+</html>
