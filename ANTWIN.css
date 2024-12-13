@@ -1,5 +1,5 @@
 body{
-    background-color: #360572
+    background-image: linear-gradient(to bottom right, #7e00c6, #be4dff)
 }
 
 #titre1 {
@@ -9,14 +9,6 @@ body{
     margin-top: 30px;
 }
 
-#Réseau{
-    font-size: 20px;
-    color: white;
-    font-family: fantasy;
-    margin-left: 1150px;
-    margin-top: 390px;
-    position : fixed
-}
 
 #Réseaux {
     font-size: 20px;
@@ -28,6 +20,7 @@ body{
     z-index: 900;
     display: flex;
     flex-direction: column;
+    background-image: black;
 }
 #Instagram {
     width: 2.9%;
@@ -61,4 +54,14 @@ body{
     left: 15px ;
 }
 
+#prout {
+    font-size: 400px;
+    color : aqua
+}
 
+#Rocket_League {
+    text-align: center;
+    color: #ff9933;
+    font-family: verdana;
+    margin-top : 200px;
+}
