@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(#008cff,#ff9939);
+}
+
+#Titres {
+    background-color: black;
+    float: left;
+    top: 0px;
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-bottom:20px ;
+}
+
+#titre1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    margin-bottom: 5px;
+}
+
+#titre2 {
+    font-family: Verdana;
+    font-size: 60px;
+    margin-bottom: 100px;
+    margin-top: 5px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+
+ul {
+    list-style-type: circle;
+    font-size: 20px;
+}
+
+#Zaragou {
+    margin-left: 250px;
+    margin-top: 0px;
+}
+
+#Atypeak {
+    margin-left: 250px;
+}
+
+#Hawapo{
+    margin-left: 250px;
+}
+
+#Zara {
+    position: absolute;
+    top: 420px;
+    left: 207px;
+}
+
+#Aty {
+    position: absolute;
+    top: 420px;
+    left: 560px;
+}
+
+#Hawa {
+    position: absolute;
+    top: 420px;
+    right: 280px;
+}
+
+#Scix {
+    margin-top: 90px;
+    margin-left: 420px;
+}
+
+#Nowhere-Boy {
+    margin-top: 90px;
+    margin-left: 280px;
+}
+
+h2 {
+    font-size: 50px;
+    text-decoration: underline;
+}
