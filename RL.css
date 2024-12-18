@@ -51,22 +51,20 @@ ul {
     margin-left: 250px;
 }
 
+.flexbox {
+    display: flex;
+}
+
 #Zara {
-    position: absolute;
-    top: 420px;
-    left: 207px;
+    margin-left: 200px;
 }
 
 #Aty {
-    position: absolute;
-    top: 420px;
-    left: 560px;
+    margin-left: 200px;
 }
 
 #Hawa {
-    position: absolute;
-    top: 420px;
-    right: 280px;
+    margin-left: 167px;
 }
 
 #Scix {
