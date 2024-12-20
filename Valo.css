@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+#logo {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    width: 9%;
+}
