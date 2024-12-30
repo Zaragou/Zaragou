@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(#008cff,#ff9939);
+}
+
+a {
+    text-decoration: none;
+}
+
+#logo {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    width: 9%;
+}
+
+#Titres {
+    background-color: black;
+    float: left;
+    top: 0px;
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-bottom:20px ;
+}
+
+#titre1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    margin-bottom: 5px;
+}
+
+#titre2 {
+    font-family: Verdana;
+    font-size: 3rem;
+    margin-bottom: 100px;
+    margin-top: 5px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+
+.flexbox {
+    display: flex;
+}
+
+.style {
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: rgb(43, 255, 0) 1px 0 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: none;
+    color: rgb(255, 255, 255);
+}
+
+ul {
+    list-style-type: none;
+    font-size: 1.23rem;
+    text-align: center;
+}
+
+#CyberNinja {
+    margin-left: 280px;
+    margin-top: 0px;
+}
+
+#Cyb {
+    margin-left: 190px;
+}
+
+#DarkSlayer {
+    margin-left: 250px;
+}
+
+#Dark {
+    margin-left: 120px;
+}
+
+#Fluxy {
+    margin-left: 250px;
+}
+
+#Flux {
+    margin-left: 170px;
+}
+
+
+#Nizo {
+    margin-top: 90px;
+    margin-left: 420px;
+}
+
+#Niz {
+    margin-left: 385px;
+}
+
+#Kumoko {
+    margin-top: 90px;
+    margin-left: 280px;
+}
+
+#Kum {
+    margin-left: 240px;
+}
+
+
+
+h2 {
+    font-size: 3rem;
+    text-decoration: underline;
+}
+
+#Achi {
+    list-style-type: square;
+    text-align: left;
+}
+
+#Achi li {
+    margin-bottom: 20px;
+}
+
+#réseaux {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+}
+
+#réseaux a {
+    margin-left: 90px;
+}
+
+#contact {
+    color: white;
+    margin-right: 170px;
+    margin-left: 20px;
+}
+
+.imgRes {
+    width: 30px;
+    height: 30px;
+    margin-top: 25px;
+}
+
+#help {
+    float: right;
+    color: white;
+    margin-top: 27px;
+}
