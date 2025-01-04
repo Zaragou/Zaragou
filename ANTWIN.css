@@ -122,12 +122,6 @@ a {
     margin-bottom: 30px;
 }
 
-#teamPresentation {
-    text-transform: uppercase;
-    font-family: Verdana;
-    color: white;
-    font-size: 1.4rem;
-}
 #imageVALO {
     width: 300px;
     height: 450px;
@@ -146,23 +140,28 @@ a {
     margin-left: 100px;
 }
 
+#teamPresentation {
+    display: flex;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: none;
+    color: rgb(255, 255, 255);
+    margin-bottom: -20px;
+}
+
 #valorant {
-    margin-left: 16%;
-    position: absolute;
-    top: 1670px;
-    
+    margin-left: 200px;
 }
 
 #rocketLeague {
-    margin-left: 40.5%;
-    position: absolute;
-    top: 1670px;
+    margin-left: 250px;
 }
 
 #leagueOfLegends {
-    margin-left: 67.2%;
-    position: absolute;
-    top: 1670px;
+    margin-left: 190px;
 }
 
 #réseaux {
