@@ -8,16 +8,24 @@ body {
     top: 5px;
     left: 10px;
     width: 9%;
+    height: 15%;
 }
 
 #Titres {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     float: left;
     top: 0px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     width: 100%;
     text-align: center;
     margin-bottom:20px ;
+}
+
+#premierTrait {
+    height: 2px;
+    width: 15%;
+    margin: -3px auto;
+    background-color: #ffffff;
 }
 
 h2 {
