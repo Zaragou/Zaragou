@@ -13,6 +13,7 @@ a {
     top: 5px;
     left: 10px;
     width: 9%;
+    height: 20%;
 }
 
 #Titres {
@@ -107,21 +108,27 @@ ul {
     margin-left: 210px;
 }
 
-
-
 h2 {
     font-size: 3rem;
     text-decoration: underline;
 }
 
-#Achi {
-    list-style-type: square;
-    text-align: left;
+table {
+    border-collapse: collapse;
+    border: line;
 }
 
-#Achi li {
-    margin-bottom: 20px;
+#imginter {
+    width: 40px;
+    height: 30px;
 }
+
+th img {
+    border-radius: 0%;
+    width: 55px;
+    height: 45px;
+}
+
 
 #réseaux {
     background-color: rgb(0, 0, 0);
