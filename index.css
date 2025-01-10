@@ -2,7 +2,6 @@ body {
     padding: 0;
     margin: 0;
     background-image: linear-gradient(#7a67e6,#ff7b00);
-    min-height: 100vh;
     float: left;
 }
 
@@ -126,18 +125,21 @@ a {
     width: 300px;
     height: 450px;
     margin-left: 120px;
+    margin-top: 10px;
 }
 
 #imageRL {
     width: 300px;
     height: 450px;
     margin-left: 100px;
+    margin-top: 10px;
 }
 
 #imageLOL {
     width: 315px;
     height: 450px;
     margin-left: 100px;
+    margin-top: 10px;
 }
 
 #teamPresentation {
@@ -185,9 +187,9 @@ a {
 }
 
 #help {
-    float: right;
     color: white;
     margin-top: 27px;
+    margin-left: 90px;
 }
 
 
