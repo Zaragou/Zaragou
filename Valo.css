@@ -114,6 +114,8 @@ ul {
 h2 {
     font-size: 3rem;
     text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 
 #Achi {
@@ -130,8 +132,11 @@ h2 {
     display: flex;
 }
 
-#réseaux a {
+.liens {
     margin-left: 90px;
+    margin-top: 25px;
+    width: 30px;
+    height: 30px;
 }
 
 #contact {
@@ -143,11 +148,12 @@ h2 {
 .imgRes {
     width: 30px;
     height: 30px;
-    margin-top: 25px;
 }
 
 #help {
-    float: right;
     color: white;
     margin-top: 27px;
+    margin-left: 190px;
+    font-weight: bold;
+    font-size: 1.3rem;
 }
