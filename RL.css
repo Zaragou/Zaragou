@@ -111,11 +111,24 @@ ul {
 h2 {
     font-size: 3rem;
     text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 
 table {
-    border-collapse: collapse;
-    border: line;
+    padding-top: 30px;
+    width: 50%;
+    border-width: 2px;
+    border-spacing: 0px;
+}
+
+th {
+    border-bottom-style: solid;
+    padding: 0px;
+}
+
+.rien {
+    border: none;
 }
 
 #imginter {
@@ -135,9 +148,14 @@ th img {
     display: flex;
 }
 
-#réseaux a {
+.liens {
+    margin-left: 90px;
+    margin-top: 25px;
+    width: 30px;
+    height: 30px;
     margin-left: 90px;
 }
+
 
 #contact {
     color: white;
@@ -148,11 +166,12 @@ th img {
 .imgRes {
     width: 30px;
     height: 30px;
-    margin-top: 25px;
 }
 
 #help {
-    float: right;
     color: white;
     margin-top: 27px;
+    margin-left: 190px;
+    font-weight: bold;
+    font-size: 1.3rem;
 }
