@@ -1,5 +1,7 @@
 body {
-    background-color: black;
+    background-image: url(./images/Décorations/Fond-help.jpg);
+    background-size: 100%;  
+    background-attachment: fixed;
     margin: 0;
 }
 
