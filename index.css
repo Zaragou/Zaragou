@@ -170,8 +170,12 @@ a {
     background-color: rgb(0, 0, 0);
     display: flex;
 }
-#réseaux a {
+
+.liens {
     margin-left: 90px;
+    margin-top: 25px;
+    width: 30px;
+    height: 30px;
 }
 
 #contact {
@@ -183,13 +187,15 @@ a {
 .imgRes {
     width: 30px;
     height: 30px;
-    margin-top: 25px;
+    margin-top: 0px;
 }
 
 #help {
     color: white;
     margin-top: 27px;
-    margin-left: 90px;
+    margin-left: 190px;
+    font-weight: bold;
+    font-size: 1.3rem;
 }
 
 
